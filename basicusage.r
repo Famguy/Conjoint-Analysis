@@ -35,4 +35,4 @@ ShowAllUtilities(y=tpref, x=tprof, z=tlevn)
 # rate respondents on three or n clusters using k-means method
 caSegmentation(y=tpref, x=tprof, c=3)
 
-
+# caBTL(), caLogit(), caMaxUtility(), ShowAllSimulations()

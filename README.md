@@ -6,7 +6,7 @@ Life insurances
 Mobile networks
 Bank loans
 Electronic gadget
-Cosmetic items
+Cosmetic items/specs
 Clothes/Shoes
 Paints (Home paints)
 Construction items (Cement)
@@ -22,3 +22,7 @@ restaurants/fast food/hotels
 house/property
 books
 movies/songs
+newspapers/magazines
+
+
+

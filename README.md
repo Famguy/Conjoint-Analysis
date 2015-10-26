@@ -1,48 +1,27 @@
-# conjoint_analysis
+# Conjoint Analysis
 
-Possible applications:
+Possible list of applications:
 
 Life insurances
 
-Mobile networks
+Electronic gadgets
 
-Bank loans
-
-Electronic gadget
-
-Cosmetic items/specs
+Cosmetic items/Spectacles
 
 Clothes/Shoes
 
-Paints (Home paints)
-
-Construction items (Cement)
-
 Ecommerce website
 
-Stocks
+Mobile apps
 
-Operating systems
+Tourist packages
 
-mobile apps
+Food items/Drinks/Beverages
 
-tourist packages
+Daily use items (toothpaste/soaps/detergents/home appliances)
 
-food items
+Restaurants/Fast food/Hotels
 
-drinks/beverages
+Movies/Songs
 
-daily use items (toothpaste/soaps/detergents/home appliances)
-
-restaurants/fast food/hotels
-
-house/property
-
-books
-
-movies/songs
-
-newspapers/magazines
-
-
-
+Newspapers/Magazines

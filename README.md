@@ -15,5 +15,5 @@
 * Movies/Songs
 * Newspapers/Magazines
 
-Papers found:
-Hotels
+## Papers found:
+* Hotels

@@ -25,3 +25,6 @@ Restaurants/Fast food/Hotels
 Movies/Songs
 
 Newspapers/Magazines
+
+Papers found:
+Hotels

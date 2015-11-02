@@ -26,11 +26,11 @@ http://www.srs.fs.usda.gov/econ/pubs/fpei/fpei57.pdf
 http://www.business-and-management.org/library/2010/5_2--1-16-Tripathi,Siddiqui.pdf
 	- [Restaurants](http://www.mss.edu.mo/mqma/Thesis/LCKoo/1999PreferentialSegmentationofRestaurantAttributes.pdf)
 	
-* Newspapers/Magazine
-	1. [2001 Spanish Study](https://revistas.ucm.es/index.php/SJOP/article/viewFile/SJOP0101120048A/29472) Can be done for Indian market/more generic maybe
-	2. [Preference of young news readers](http://link.springer.com/chapter/10.1007%2F978-3-319-10951-0_216#page-1)
-	3. [Factors](http://www.academia.edu/2130305/Unbundling_Local_News_Preferences_Measuring_Value_via_Conjoint_Analysis)
-	4. [Tablet magazines](http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=8834&context=theses)
+* Newspapers/Magazines
+1. [2001 Spanish Study](https://revistas.ucm.es/index.php/SJOP/article/viewFile/SJOP0101120048A/29472) Can be done for Indian market/more generic maybe
+2. [Preference of young news readers](http://link.springer.com/chapter/10.1007%2F978-3-319-10951-0_216#page-1)
+3. [Factors](http://www.academia.edu/2130305/Unbundling_Local_News_Preferences_Measuring_Value_via_Conjoint_Analysis)
+4. [Tablet magazines](http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=8834&context=theses)
 
 * Movies/Songs
 	-[ACA for song pricing](http://michael.hahsler.net/research/conjoint_gfkl2006/conjoint_music.pdf)

@@ -1,5 +1,10 @@
 # Conjoint Analysis
 
+## Finalised list
+
+* Restaurants/Fast food/Hotels/Tourist packages
+* Movies/Songs
+
 ## Possible list of applications:
 
 * Life insurances

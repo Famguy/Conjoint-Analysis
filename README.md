@@ -3,7 +3,7 @@
 ## Finalised list
 
 * Restaurants/Fast food/Hotels/Tourist packages
-* Movies/Songs
+* Movies/Songs pricing
 
 ## Possible list of applications:
 

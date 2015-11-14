@@ -24,7 +24,7 @@
 
 * Hotels
 
-http://www.tandfonline.com/doi/pdf/10.1080/10941660600753265
+! http://www.tandfonline.com/doi/pdf/10.1080/10941660600753265
 
 http://www.srs.fs.usda.gov/econ/pubs/fpei/fpei57.pdf
 

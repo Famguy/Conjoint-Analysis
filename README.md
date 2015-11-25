@@ -1,5 +1,11 @@
 # Conjoint Analysis
 
+## Considerations
+
+* Finding factors across different age groups (or any other distinguishing feature)
+* Pricing of movie theaters
+* Inclusion of Fuzzy conjoint analysis
+
 ## Finalised list
 
 * Restaurants/Fast food/Hotels/Tourist packages

@@ -5,6 +5,7 @@
 * Finding factors across different age groups (or any other distinguishing feature)
 * Pricing of movie theaters
 * Inclusion of Fuzzy conjoint analysis
+* SVM maybe (not sure)
 
 ## Finalised list
 
@@ -29,9 +30,9 @@
 ## Papers found:
 
 * Hotels
-	1. [Hostel 1](http://www.tandfonline.com/doi/pdf/10.1080/10941660600753265)
-	2. [Hostel 2](http://www.srs.fs.usda.gov/econ/pubs/fpei/fpei57.pdf)
-	3. [Hostel 3](http://www.business-and-management.org/library/2010/5_2--1-16-Tripathi,Siddiqui.pdf)
+	1. [Hotel 1](http://www.tandfonline.com/doi/pdf/10.1080/10941660600753265)
+	2. [Hotel 2](http://www.srs.fs.usda.gov/econ/pubs/fpei/fpei57.pdf)
+	3. [Hotel 3](http://www.business-and-management.org/library/2010/5_2--1-16-Tripathi,Siddiqui.pdf)
 	4. [Restaurants](http://www.mss.edu.mo/mqma/Thesis/LCKoo/1999PreferentialSegmentationofRestaurantAttributes.pdf)
 	
 * Newspapers/Magazines

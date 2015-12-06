@@ -32,3 +32,4 @@ Nothing as such done for movies but study of parameters:
 	3. [Example study 1. Similar thing can be done for ours](http://ac.els-cdn.com/S0040162510001356/1-s2.0-S0040162510001356-main.pdf?_tid=d3c501d0-9347-11e5-8b62-00000aab0f26&acdnat=1448437421_04729259ac629d90189963ddac0038ef)
 	4. [Example study 2](file:///home/sagun/Downloads/JSSM_2015020313443475.pdf)
 	3. [Reservation price estimate](http://michael.hahsler.net/research/reservation_gfkl2004/gfkl2004.pdf)
+sa
